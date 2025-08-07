@@ -1,0 +1,22 @@
+﻿  Building 'PuppetDrv' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  load.cpp
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(7,20): warning C4244: “初始化”: 从“ULONG64”转换到“ULONG”，可能丢失数据
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(8,43): warning C4996: 'ExAllocatePool': 被声明为已否决
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(40,30): warning C4996: 'ExAllocatePool': 被声明为已否决
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(81,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(95,18): warning C4244: “初始化”: 从“UINT64”转换到“UINT32”，可能丢失数据
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(200,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(194,6): warning C4189: “numberRvaAndSize”: 局部变量已初始化但不引用
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(257,93): warning C4244: “参数”: 从“SIZE_T”转换到“ULONG”，可能丢失数据
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(291,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(252,41): warning C4996: 'ExAllocatePool': 被声明为已否决
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(285,30): warning C4996: 'ExAllocatePool': 被声明为已否决
+D:\kernel\SKDriver\SKDriver\PuppetDrv\peload\load.cpp(29): warning C4715: “laod::LoadRealPE”: 不是所有的控件路径都返回值
+  PuppetDrv.vcxproj -> D:\kernel\SKDriver\SKDriver\x64\Debug\PuppetDrv.sys
+  Done Adding Additional Store
+  Successfully signed: D:\kernel\SKDriver\SKDriver\x64\Debug\PuppetDrv.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
+  DrvCat task was skipped as there was no catalog file to process
+  
